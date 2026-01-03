@@ -1,0 +1,12 @@
+
+.header{
+            background-color: rgba(69, 158, 221, 0.719);
+            color:rgb(229, 204, 142)
+        }
+.footer{
+            background-color: rgb(75, 143, 145);
+            color:rgb(229, 204, 142)
+ }
+ .container{
+        margin:1px;
+ }
